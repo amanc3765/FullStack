@@ -1,0 +1,7 @@
+Git Client
+
+git --version
+
+git config --global user.name "Aman Choudhary"
+git config --global user.email "amanc@iisc.ac.in"
+git config --list 
