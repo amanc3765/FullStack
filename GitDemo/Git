@@ -1,7 +1,17 @@
 Git Client
+_______________________________
 
-git --version
+Local setup:
+	git --version
 
-git config --global user.name "Aman Choudhary"
-git config --global user.email "amanc@iisc.ac.in"
-git config --list 
+	git config --global user.name "Aman Choudhary"
+	git config --global user.email "amanc@iisc.ac.in"
+	git config --list 
+
+	git init
+
+Add your files, and commit them.
+
+Connect to server:
+	git remote add origin 'git@github.com:amanc3765/FullStack.git'
+	git remote -v
